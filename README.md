@@ -129,43 +129,43 @@ Below is the list of some of the most used Big O notations and their performance
 
 ## Overview
 
-# Introduction(Week 1 - 5)
+### Introduction(Week 1 - 5)
 - Growth of functions
 - Divide and Conquer
 - Probabilistic Analysis and Randomized Algorithms
 
-# Sorting and Order Statistics(Week 6 - 9)
+### Sorting and Order Statistics(Week 6 - 9)
 - Heapsort 
 - Quicksort
 - Sorting in Linear time
 - Medians and order statistics
 
-# Data Structures(Week 10 - 14)
+### Data Structures(Week 10 - 14)
 - Elementary Data Structures
 - Hash Tables
 - Binary Search Trees
 - Red-Black Trees
 - Augmenting Data Structures
 
-# Advanced Design and Analysis Technique(Week 15- 17)
+### Advanced Design and Analysis Technique(Week 15- 17)
 - Dynamic Programming
 - Greedy Algorithms
 - Amortized Analysis
 
-# Advanced Data Structures(Week 18 - 21)
+### Advanced Data Structures(Week 18 - 21)
 - B-Trees
 - Fibonacci Heaps
 - Van Emde Boas Trres
 - Data Structures for Disjoint Sets
 
-# Graphs and Algorithms(Week 22 - 26)
+### Graphs and Algorithms(Week 22 - 26)
 - Elementary Graphs and Algorithms
 - Minimum Spanning Trees
 - Single-Source Shortest Paths
 - All-Pairs Shortest Paths
 - Maximum Flow
 
-# Selected Topics(Week 27 - 35)
+### Selected Topics(Week 27 - 35)
 - Multithread Algorithms
 - Matrix Operations
 - Linear Programming
