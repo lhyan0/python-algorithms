@@ -12,7 +12,7 @@
 In preparation for this study plan, I have been using Introduction to Algorithms [CLRS09] by four
 devilishly handsome fellows. The book is commonly called “CLRS,”
 after the initials of the authors.
-Written in pseudo codes, I have been doing the implimentations in python programmming language, this has given me an in depth understanding of the topics covered
+Written in pseudocodes, I have been doing the implimentations in python programmming language, this has given me an in depth understanding of the topics covered
 
 This is my multi-month study plan for going from web developer(self taught) to software engineer.
 It is meant for anyone starting out on algos or those switching from
@@ -22,19 +22,19 @@ software/web development to software engineering (where computer science knowled
 
 - [What is it?](#what-is-it)
 - [Why use it?](#why-use-it)
-- [How to use it](#how-to-us)
-- [What is it?](#what-is-it)e-it)
+- [How to use it](#how-to-use-it)
+- [What is it?](#what-is-it)
 - [Don't feel you aren't smart enough](#dont-feel-you-arent-smart-enough)
 
 ## Why use it?
 
 
 When I started this project, I didn't know a stack from a heap, didn't know Big-O anything, anything about trees, or how to
-traverse a graph. If I had to code a sorting algorithm, I can tell ya it wouldn't have been very good.
+traverse a graph. If I had to code a sorting algorithm, I can tell you it wouldn't have been very good.
 Every data structure I've ever used was built into the language, and I didn't know how they worked
 under the hood at all. I've never had to manage memory unless a process I was running would give an "out of
 memory" error, and then I'd have to find a workaround. I've used a few multidimensional arrays in my life and
-thousands of associative arrays, but I've never created data structures from scratch.
+some of associative arrays, but I've never created data structures from scratch.
 
 It's a long plan. It may take you months. If you are familiar with a lot of this already it will take you a lot less time.
 
@@ -54,9 +54,6 @@ only and it is **not** meant to be used for production.*
 - [The myth of the Genius Programmer](https://www.youtube.com/watch?v=0SARbwvhupQ)
 - [It's Dangerous to Go Alone: Battling the Invisible Monsters in Tech](https://www.youtube.com/watch?v=1i8ylq4j_EY)
 - [Believe you can change](http://www.aaronsw.com/weblog/dweck)
-
-
-## Overview
 
 ## Algorithms 
 
@@ -128,3 +125,54 @@ Below is the list of some of the most used Big O notations and their performance
 | **Shell sort**        | n&nbsp;log(n)   | depends on gap sequence   | n&nbsp;(log(n))<sup>2</sup>  | 1         | No         |           |
 | **Counting sort**     | n + r           | n + r               | n + r               | n + r     | Yes       | r - biggest number in array |
 | **Radix sort**        | n * k           | n * k               | n * k               | n + k     | Yes       | k - length of longest key |
+
+
+## Overview
+
+# Introduction(Week 1 - 5)
+- Growth of functions
+- Divide and Conquer
+- Probabilistic Analysis and Randomized Algorithms
+
+# Sorting and Order Statistics(Week 6 - 9)
+- Heapsort 
+- Quicksort
+- Sorting in Linear time
+- Medians and order statistics
+
+# Data Structures(Week 10 - 14)
+- Elementary Data Structures
+- Hash Tables
+- Binary Search Trees
+- Red-Black Trees
+- Augmenting Data Structures
+
+# Advanced Design and Analysis Technique(Week 15- 17)
+- Dynamic Programming
+- Greedy Algorithms
+- Amortized Analysis
+
+# Advanced Data Structures(Week 18 - 21)
+- B-Trees
+- Fibonacci Heaps
+- Van Emde Boas Trres
+- Data Structures for Disjoint Sets
+
+# Graphs and Algorithms(Week 22 - 26)
+- Elementary Graphs and Algorithms
+- Minimum Spanning Trees
+- Single-Source Shortest Paths
+- All-Pairs Shortest Paths
+- Maximum Flow
+
+# Selected Topics(Week 27 - 35)
+- Multithread Algorithms
+- Matrix Operations
+- Linear Programming
+- Polynomial and the FFT
+- Number-Theoretic Algorithms
+- String Matching 
+- Computational Geometry
+- Np-Completeness
+- Approximation Algorithms
+
